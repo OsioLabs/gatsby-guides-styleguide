@@ -1,2 +1,2 @@
 # Gatsby Guides Styleguide
-This is an example of all the brand style elements we use. You can see it in a browser at https://osiolabs.github.io/gatsby-guides-styleguide/.
+This is a Gatsby site prototype that shows our visual style guide. We should like do something with it so we can see it.
